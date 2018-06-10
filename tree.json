@@ -1,1 +1,148 @@
-{"name": "yooks", "raw_children": null, "children": [{"name": "are", "children": [{"name": "not", "children": [{"name": "zooks", "children": [{"name": ".", "size": 1}]}, {"name": "from", "children": [{"name": "zooktown", "size": 1}]}], "size": 0}, {"name": "from", "children": [{"name": "yooktown", "children": [{"name": ".", "size": 1}]}]}], "size": 0}, {"name": "know", "children": [{"name": "how", "children": [{"name": "to", "children": [{"name": "cook", "children": [{"name": ".", "size": 1}]}]}]}]}, {"name": "like", "children": [{"name": "to", "children": [{"name": "cook", "children": [{"name": ".", "size": 1}]}, {"name": "read", "children": [{"name": "magazines", "children": [{"name": ".", "size": 1}]}, {"name": "books", "children": [{"name": ".", "size": 1}]}], "size": 0}], "size": 0}], "size": 0}, {"name": "in", "children": [{"name": "zooktown", "children": [{"name": ".", "size": 1}]}]}]}
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": null,
+          "name": "( tmm ) is a probabilistic-algorithmic markov chain model",
+          "size": 1
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": null,
+                  "name": "markov chain for which the state is only partially observable",
+                  "size": 1
+                },
+                {
+                  "children": null,
+                  "name": "stochastic model used to model randomly changing systems",
+                  "size": 1
+                }
+              ],
+              "name": "a",
+              "size": 0
+            },
+            {
+              "children": null,
+              "name": "the markov chain",
+              "size": 1
+            }
+          ],
+          "name": "is",
+          "size": 0
+        }
+      ],
+      "name": "model",
+      "size": 1
+    },
+    {
+      "children": [
+        {
+          "children": null,
+          "name": "suggests that the distribution for this variable depends only on the distribution of previous state",
+          "size": 1
+        },
+        {
+          "name": ")",
+          "size": 1
+        }
+      ],
+      "name": "property",
+      "size": 1
+    },
+    {
+      "children": [
+        {
+          "children": null,
+          "name": "are the hierarchical hidden markov model [ 3 ] and the abstract hidden markov model",
+          "size": 1
+        },
+        {
+          "children": null,
+          "name": "can be applied to categorize human behavior at various levels of abstraction",
+          "size": 1
+        },
+        {
+          "name": "exist",
+          "size": 1
+        },
+        {
+          "children": null,
+          "name": "used in different situations , depending on whether every sequential state is observable or not , and whether the system is to be adjusted on the basis of observations made :",
+          "size": 1
+        }
+      ],
+      "name": "models",
+      "size": 0
+    },
+    {
+      "children": [
+        {
+          "children": null,
+          "name": ", state depends only on the previous state in time , whereas in a markov random field , each state depends on its neighbors in any of multiple directions",
+          "size": 1
+        },
+        {
+          "children": null,
+          "name": "is markov chain monte carlo , which uses the markov property to prove that a particular method for performing a random walk will sample from the joint distribution",
+          "size": 1
+        }
+      ],
+      "name": "chain",
+      "size": 0
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": null,
+              "name": "used to compute a policy of actions that will maximize some utility with respect to expected rewards",
+              "size": 1
+            },
+            {
+              "children": null,
+              "name": "a markov chain in which state transitions depend on the current state and an action vector that is applied to the system",
+              "size": 1
+            }
+          ],
+          "name": "is",
+          "size": 0
+        },
+        {
+          "children": null,
+          "name": "( pomdp ) is a markov decision process in which the state of the system is only partially observed",
+          "size": 1
+        }
+      ],
+      "name": "decision process",
+      "size": 0
+    },
+    {
+      "children": [
+        {
+          "children": null,
+          "name": ", or markov network , may be considered to be a generalization of a markov chain in multiple dimensions",
+          "size": 1
+        },
+        {
+          "children": null,
+          "name": "may be visualized as a field or graph of random variables , where the distribution of each random variable depends on the neighboring variables with which it is connected",
+          "size": 1
+        },
+        {
+          "children": null,
+          "name": "is useful because it implies that the joint distributions at each vertex in the graph may be computed in this manner",
+          "size": 1
+        }
+      ],
+      "name": "random field",
+      "size": 0
+    }
+  ],
+  "name": "markov",
+  "raw_children": null
+}
